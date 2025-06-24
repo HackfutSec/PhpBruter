@@ -86,4 +86,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Screenshot
 
-![Sample Usage](https://freeimage.host/i/FTnzmqg)
+![Sample Usage](https://freeimage.host/i/screenshot-2025-06-24-1.FTnzmqg)
