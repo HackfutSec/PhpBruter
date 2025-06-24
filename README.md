@@ -3,7 +3,7 @@ Here's a comprehensive README.md file for your GitHub repository:
 ```markdown
 # PhpBruter - phpMyAdmin Enterprise Pentesting Tool
 
-![Banner](https://freeimage.host/i/FTnzmqg)
+![Banner](https://freeimage.host/i/screenshot-2025-06-24-1.FTnzmqg)
 
 **PhpBruter** is an advanced security testing tool designed for professional penetration testers to assess the security of phpMyAdmin installations. This enterprise-grade tool provides multiple attack vectors to test authentication security with features like credential brute-forcing, password spraying, and custom wordlist attacks.
 
